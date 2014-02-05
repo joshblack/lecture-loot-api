@@ -1,3 +1,21 @@
-== Rails API v1
+= Rails API v1
 
 Here we created a rails application that functions solely as an API for both the Android and Web version of LectureLoot.
+
+== How to use
+- Decide on the resource you need to access (in this case we'll use users)
+- Send the proper HTTP request to the appropriate API path
+  * For our example, we'll have the following:
+    * api_v1_users 
+      * GET /api/v1/users(.:format), display a listing of all the users
+      * POST /api/v1/users(.:format), create a user
+    * api_v1_user     
+      * GET /api/v1/users/:id(.:format), display a user
+      * PATCH /api/v1/users/:id(.:format), update a user using the newer HTTP Patch method
+      * PUT /api/v1/users/:id(.:format), update a user using the older put method
+      * DELETE /api/v1/users/:id(.:format), delete a user
+                        
+                       
+                        
+
+
