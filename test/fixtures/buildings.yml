@@ -1,0 +1,11 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  buildingCode: MyString
+  gpsLongitude: 9.99
+  gpsLatitude: 9.99
+
+two:
+  buildingCode: MyString
+  gpsLongitude: 9.99
+  gpsLatitude: 9.99

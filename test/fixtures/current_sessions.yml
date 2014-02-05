@@ -1,0 +1,15 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  userId: 1
+  sessionId: 1
+  wagerUnitValue: 1
+  wagerTotalValue: 1
+  pointsLost: 1
+
+two:
+  userId: 1
+  sessionId: 1
+  wagerUnitValue: 1
+  wagerTotalValue: 1
+  pointsLost: 1

@@ -1,0 +1,17 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  sectionNumber: MyString
+  userId: 1
+  meetingDay: MyString
+  period: MyString
+  checkedIn: false
+  cancelled: false
+
+two:
+  sectionNumber: MyString
+  userId: 1
+  meetingDay: MyString
+  period: MyString
+  checkedIn: false
+  cancelled: false

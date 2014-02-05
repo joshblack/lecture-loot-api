@@ -1,0 +1,3 @@
+== Rails API v1
+
+Here we created a rails application that functions solely as an API for both the Android and Web version of LectureLoot.
