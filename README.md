@@ -3,7 +3,7 @@ lecture-loot-api
 
 PHP API for school project
 
-- Send the proper HTTP request to the appropriate API path
+- Send the proper HTTP request to the appropriate API path "api/v1/{request call}"
   * Everything should be json encoded first and then urlencoded
     * api_v1
       * POST /register
