@@ -1,0 +1,19 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  deptCode: MyString
+  courseNumber: MyString
+  sectionNumber: MyString
+  buildingCode: MyString
+  roomNumber: MyString
+  meetingDay: MyString
+  period: MyString
+
+two:
+  deptCode: MyString
+  courseNumber: MyString
+  sectionNumber: MyString
+  buildingCode: MyString
+  roomNumber: MyString
+  meetingDay: MyString
+  period: MyString
